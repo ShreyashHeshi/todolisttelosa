@@ -1,0 +1,5 @@
+get all tasks(GET) - http://localhost:8080/api/tasks
+get teaks by id(GET) - http://localhost:8080/api/tasks/{id}
+post mapping(POST) - http://localhost:8080/api/tasks
+put mapping(PUT) - http://localhost:8080/api/tasks/{id}
+delete mapping(DELETE) - http://localhost:8080/api/tasks/{id}
